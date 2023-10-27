@@ -1,4 +1,0 @@
-- 👋 Hi, I’m Ashraf Hamoud.
-- 👀 I’m interested in Web Development & Artificial Intelligence.
-- 🌱 I’m currently learning Pyhton & Django.
-- 📫 If you want to reach me send to this gmail => Ashraf.s.hamoud@gmail.com
